@@ -1,0 +1,8 @@
+key	character_skill_node_set_key	character_skill_key	faction_key	campaign_key	tier	indent	subculture	points_on_creation	required_num_parents	visible_in_ui
+#character_skill_nodes_tables;5;db/character_skill_nodes_tables/knowledgeable_all_races										
+wh2_dlc11_skill_node_cst_admiral_death_innate_00	wh2_dlc11_skill_node_set_cst_admiral_death	wh2_main_skill_innate_all_knowledgeable			0.0	6.0		0	0	false
+wh2_dlc11_skill_node_cst_admiral_deep_innate_00	wh2_dlc11_skill_node_set_cst_admiral_deep	wh2_main_skill_innate_all_knowledgeable			0.0	6.0		0	0	false
+wh2_dlc11_skill_node_cst_admiral_fem_death_innate_00	wh2_dlc11_skill_node_set_cst_admiral_fem_death	wh2_main_skill_innate_all_knowledgeable			0.0	6.0		0	0	false
+wh2_dlc11_skill_node_cst_admiral_fem_deep_innate_00	wh2_dlc11_skill_node_set_cst_admiral_fem_deep	wh2_main_skill_innate_all_knowledgeable			0.0	6.0		0	0	false
+wh2_dlc11_skill_node_cst_admiral_fem_innate_00	wh2_dlc11_skill_node_set_cst_admiral_fem	wh2_main_skill_innate_all_knowledgeable			0.0	6.0		0	0	false
+wh2_dlc11_skill_node_cst_admiral_innate_00	wh2_dlc11_skill_node_set_cst_admiral	wh2_main_skill_innate_all_knowledgeable			0.0	6.0		0	0	false
